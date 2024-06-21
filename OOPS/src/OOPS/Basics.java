@@ -22,7 +22,7 @@ public class Basics {
 
     // create a class
     // for every single student
-    class Student {
+    static class Student {
         int rollNo;
         String name;
         float marks;
