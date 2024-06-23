@@ -1,6 +1,6 @@
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Arrays;
+// import java.util.ArrayList;
+// import java.util.List;
+// import java.util.Arrays;
 public class Practice {
 
 //    static int[] findSum(int[] A, int N) {
