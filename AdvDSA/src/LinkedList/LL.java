@@ -97,7 +97,7 @@ public class LL {
             return deleteFirst();
         }
 
-        if(index == size -1) {
+        if(index == size - 1) {
             return deleteLast();
         }
 
@@ -197,6 +197,8 @@ public class LL {
 
         return ans;
     }
+
+    
 
     public static void main(String[] args) {
         // LL list = new LL();
