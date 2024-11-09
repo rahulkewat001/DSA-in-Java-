@@ -48,4 +48,11 @@ public class CustomQueue {
         }
         return data[0];
     }
+
+    public void display() {
+        for (int i = 0; i < end; i++) {
+            System.out.print(data[i] + " <-  ");
+        }
+        System.out.println("END");
+    }
 }
